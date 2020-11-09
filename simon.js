@@ -1,0 +1,1 @@
+let simon = { Alder: 18, Navn: 'Simon' };
